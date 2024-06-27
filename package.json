@@ -1,0 +1,10 @@
+{
+  "name": "coderhub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CoderBin0424/coderhub.git",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.15.3"
+  }
+}
